@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"go-grpc-http-rest-microservice-tutorial/pkg/api/v1"
+	"github.com/efrengarcial/go-grpc-http-rest-microservice-tutorial/pkg/api/v1"
 	"time"
 
 	"github.com/golang/protobuf/ptypes"
